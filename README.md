@@ -1,2 +1,3 @@
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/luminostride/lumoengine/main/consent"))();```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/luminostride/lumoengine/main/consent"))()
+```
