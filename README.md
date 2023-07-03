@@ -1,1 +1,2 @@
-# **there isnt anything to read?**
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/luminostride/lumoengine/main/consent"))();```
