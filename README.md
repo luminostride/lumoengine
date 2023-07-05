@@ -1,8 +1,8 @@
-# loadstring example (usable)
+# Crash (usable)
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/luminostride/lumoengine/main/lumo$1"))()
 ```
-# discord chatter (usable)
+# Discord Chatter (usable, make sure to change "url" to the webhook url)
 
 ```lua
 webhook = 'url'
