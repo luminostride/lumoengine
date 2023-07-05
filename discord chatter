@@ -1,3 +1,0 @@
-webhook = 'url'
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/luminostride/lumoengine/main/webhooksource.lua"))()
