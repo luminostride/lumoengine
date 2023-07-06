@@ -1,9 +1,8 @@
-# Scripts
-**Utility**
+# Script UT
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/luminostride/osok/main/utility"))()
 ```
-**FB**
+# Script FB
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/luminostride/osok/main/stolen"))()
 ```
