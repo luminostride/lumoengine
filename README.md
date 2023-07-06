@@ -1,5 +1,3 @@
-# osok
-containing one script
 # Scripts
 
 ```lua
